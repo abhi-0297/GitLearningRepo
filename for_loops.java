@@ -71,6 +71,7 @@ public class Example3
 }
 
 
+
 // Java program to illustrate 
 // declaring a variable 
 // in initialization block 
@@ -89,3 +90,4 @@ public class Example4
           
     } 
 } 
+
